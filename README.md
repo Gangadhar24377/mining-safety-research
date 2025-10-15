@@ -1,4 +1,4 @@
- # Mining research models — concise index
+ # Mining research 
 
  This workspace contains experiments and dataset configurations for YOLOv8, YOLOv9 and YOLOv10 used in mining / coal-miner safety research. The primary dataset used for these experiments is DSLMF+ (refer to the dataset documentation or dataset owners for an authoritative citation).
 
