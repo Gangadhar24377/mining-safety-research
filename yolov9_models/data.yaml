@@ -1,0 +1,7 @@
+path: /home/kambhamettu.s/Projects/mining/coal_miner_data2023_yolo
+train: /home/kambhamettu.s/Projects/mining/coal_miner_data2023_yolo/images/train
+val: /home/kambhamettu.s/Projects/mining/coal_miner_data2023_yolo/images/val
+labels_path: /home/kambhamettu.s/Projects/mining/coal_miner_data2023_yolo/Projects/mining/coal_miner_data2023_yolo/labels
+images_path: /home/kambhamettu.s/Projects/mining/coal_miner_data2023_yolo/Projects/mining/coal_miner_data2023_yolo/images
+nc: 1  
+names: ['coal_miner']

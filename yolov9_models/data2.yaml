@@ -1,0 +1,7 @@
+path: /home/kambhamettu.s/Projects/mining/hydraulic_support_guard_plate _data2023_yolo
+train: /home/kambhamettu.s/Projects/mining/hydraulic_support_guard_plate _data2023_yolo/images/train
+val: /home/kambhamettu.s/Projects/mining/hydraulic_support_guard_plate _data2023_yolo/images/val
+labels_path: /home/kambhamettu.s/Projects/mining/hydraulic_support_guard_plate _data2023_yolo/labels
+images_path: /home/kambhamettu.s/Projects/mining/hydraulic_support_guard_plate _data2023_yolo/images
+nc: 2  
+names: ['hydraulic_support_guard_plate', 'dummy']
